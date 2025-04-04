@@ -37,4 +37,4 @@ class Caixa:
         total = self.calcular_total()
         print(f"Total da compra: R${total:.2f}")
         self.__produtos = [] 
-        print("Compra finalizada. Volte sempre!")
+        print("Compra finalizada. Volte sempre, obrigado!")
